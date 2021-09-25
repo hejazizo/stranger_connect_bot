@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.0.1
+loguru==0.5.3
